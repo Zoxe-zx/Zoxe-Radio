@@ -37,7 +37,7 @@ _Try the new radio system with Zoxe Radio 🔊. A new system where you have the 
 
 
 
-** 👀  - Socials:**
+**👀  - Socials:**
 - [**🌐 - Website**](https://discord.gg/avJYpPCfuG)
 
 - [**🔗 - Discord**](https://discord.gg/avJYpPCfuG)
