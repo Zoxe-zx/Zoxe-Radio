@@ -37,10 +37,10 @@ _Try the new radio system with Zoxe Radio 🔊. A new system where you have the 
 
 
 
-**🌐 -  - Website:**
+**🌐 - Website:**
 [Click Me](https://anosmus.github.io/Zoxe-Home/)
 
-**🔗 -  - Discord:**
+**🔗 - Discord:**
 [Click Me](https://discord.gg/avJYpPCfuG)
 
 
