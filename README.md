@@ -37,12 +37,10 @@ _Try the new radio system with Zoxe Radio 🔊. A new system where you have the 
 
 
 
+** 👀  - Socials:**
+- [**🌐 - Website**](https://discord.gg/avJYpPCfuG)
 
-**🌐 - Website**
-[Click Me](https://discord.gg/avJYpPCfuG)
-
-**🔗 - Discord**
-[Click Me](https://discord.gg/avJYpPCfuG)
+- [**🔗 - Discord**](https://discord.gg/avJYpPCfuG)
 
 
 
